@@ -1,1 +1,1 @@
-# P2PTransfArquivos
+# Rede P2P para compartilhamento de arquivos
